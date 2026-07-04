@@ -1,17 +1,4 @@
-**No, this is not exactly the same** as the earlier README file.
-
-### Key Differences:
-- **New Content Added**: A detailed note about the **embedded HTML template** (`HTML_TEMPLATE` inside `GhostTrackPro.py`), explaining why there's no need for a `templates/index.html` file. This improves usability and portability.
-- **Formatting Issues**: The new version you pasted has broken Markdown in several places (incomplete code blocks, missing newlines, duplicated "Bash Copied! Copy" artifacts, and inconsistent structure).
-- **Minor Improvements**: Slightly cleaner installation steps in some areas and the added self-contained note.
-- **Overall**: It's an **updated and improved** version conceptually, but it needs polishing for professionalism.
-
----
-
-Here's a **beautifully rewritten, clean, and professional version** of your latest README (preserving all context, sentences, and meaning while fixing formatting and enhancing readability):
-
-```markdown
-# 🕵️ GhostTrack Pro
+ 🕵️ GhostTrack Pro
 
 **GhostTrack Pro** is an advanced OSINT (Open Source Intelligence) and educational tracking tool designed for cybersecurity professionals, researchers, and ethical hackers. It combines traditional information gathering with a **real-time GPS phishing module** to demonstrate how location data can be captured via social engineering.
 
