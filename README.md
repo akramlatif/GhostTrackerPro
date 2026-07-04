@@ -1,6 +1,6 @@
  🕵️ GhostTrack Pro
 
-**GhostTrack Pro** is an advanced OSINT (Open Source Intelligence) and educational tracking tool designed for cybersecurity professionals, researchers, and ethical hackers. It combines traditional information gathering with a **real-time GPS phishing module** to demonstrate how location data can be captured via social engineering.
+**GhostTracker Pro** is an advanced OSINT (Open Source Intelligence) and educational tracking tool designed for cybersecurity professionals, researchers, and ethical hackers. It combines traditional information gathering with a **real-time GPS phishing module** to demonstrate how location data can be captured via social engineering.
 
 > **⚠️ DISCLAIMER:** This tool is for **educational purposes and authorized testing only**.  
 > - Do not use this to track individuals without their explicit consent.  
@@ -58,7 +58,7 @@
 3. **Clone the repository:**
    ```bash
    git clone https://github.com/akramlatif/GhostTrackerPro.git
-   cd GhostTrackPro
+   cd GhostTrackerPro
    ```
 
 4. **Install dependencies:**
@@ -68,7 +68,7 @@
 
 5. **Run the tool:**
    ```bash
-   python3 GhostTrackPro.py
+   python3 GhostTrackerPro.py
    ```
 
 ### Option B: Termux (Android)
@@ -88,7 +88,7 @@
 3. **Clone the repository:**
    ```bash
    git clone https://github.com/akramlatif/GhostTrackerPro.git
-   cd GhostTrackPro
+   cd GhostTrackerPro
    ```
 
 4. **Install dependencies:**
@@ -98,7 +98,7 @@
 
 5. **Run the tool:**
    ```bash
-   python GhostTrackPro.py
+   python GhostTrackerPro.py
    ```
 
 ---
@@ -147,7 +147,7 @@ The Live GPS Tracker (Option 5) works in two scenarios:
 **A:** Flask is required to run the local web server for the Live GPS Tracker feature. Without it, Option 5 will not work.
 
 **Q:** Is this legal?  
-**A:** Yes, for educational purposes and authorized testing (e.g., testing your own devices, or with written permission). Using it to track someone without consent may be illegal in your country.
+**A:** Yes, for educational purposes and authorized testing (e.g., testing your own devices or with written permission). Using it to track someone without consent may be illegal in your country.
 
 ---
 
@@ -171,5 +171,3 @@ This project is licensed for educational use only. By using this tool, you agree
  
 **Version:** 2.0 (Pro)
 ```
-
-**Recommendation**: Use this polished version. It maintains everything from your latest text while looking professional and consistent. Let me know if you want any further tweaks!
