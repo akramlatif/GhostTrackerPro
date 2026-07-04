@@ -57,7 +57,7 @@
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/akramlatif/GhostTracker.git
+   git clone https://github.com/akramlatif/GhostTrackerPro.git
    cd GhostTrackPro
    ```
 
@@ -87,7 +87,7 @@
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/akramlatif/GhostTracker.git
+   git clone https://github.com/akramlatif/GhostTrackerPro.git
    cd GhostTrackPro
    ```
 
