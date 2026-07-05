@@ -1,6 +1,8 @@
- 🕵️ GhostTrack Pro
+# 🕵️ GhostTrack Pro
 
-**GhostTracker Pro** is an advanced OSINT (Open Source Intelligence) and educational tracking tool designed for cybersecurity professionals, researchers, and ethical hackers. It combines traditional information gathering with a **real-time GPS phishing module** to demonstrate how location data can be captured via social engineering.
+![Home](images/Home.jpeg)
+
+**GhostTrack Pro** is an advanced OSINT (Open Source Intelligence) and educational tracking tool designed for cybersecurity professionals, researchers, and ethical hackers. It combines traditional information gathering with a **real-time GPS phishing module** to demonstrate how location data can be captured via social engineering.
 
 > **⚠️ DISCLAIMER:** This tool is for **educational purposes and authorized testing only**.  
 > - Do not use this to track individuals without their explicit consent.  
@@ -24,6 +26,7 @@
 - Helps identify a target's digital footprint.
 
 ### 4. 🌍 Live GPS Tracker (NEW & Advanced)
+![GPS Tracker](images/GPSTracker.jpeg)
 - **How it works:** Creates a local web server that generates a "trap" link (e.g., a fake security alert page).
 - **The Attack:** When the target clicks the link and grants location permission, their **exact real-time GPS coordinates**, device info, and IP address are sent to your terminal.
 - **Use Case:** Demonstrates the dangers of granting location permissions to unknown links.
@@ -57,8 +60,8 @@
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/akramlatif/GhostTrackerPro.git
-   cd GhostTrackerPro
+   git clone https://github.com/akramlatif/GhostTracker.git
+   cd GhostTracker
    ```
 
 4. **Install dependencies:**
@@ -68,7 +71,7 @@
 
 5. **Run the tool:**
    ```bash
-   python3 GhostTrackerPro.py
+   python3 GhostTrackPro.py
    ```
 
 ### Option B: Termux (Android)
@@ -87,8 +90,8 @@
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/akramlatif/GhostTrackerPro.git
-   cd GhostTrackerPro
+   git clone https://github.com/akramlatif/GhostTracker.git
+   cd GhostTracker
    ```
 
 4. **Install dependencies:**
@@ -98,7 +101,7 @@
 
 5. **Run the tool:**
    ```bash
-   python GhostTrackerPro.py
+   python GhostTrackPro.py
    ```
 
 ---
@@ -147,7 +150,7 @@ The Live GPS Tracker (Option 5) works in two scenarios:
 **A:** Flask is required to run the local web server for the Live GPS Tracker feature. Without it, Option 5 will not work.
 
 **Q:** Is this legal?  
-**A:** Yes, for educational purposes and authorized testing (e.g., testing your own devices or with written permission). Using it to track someone without consent may be illegal in your country.
+**A:** Yes, for educational purposes and authorized testing (e.g., testing your own devices, or with written permission). Using it to track someone without consent may be illegal in your country.
 
 ---
 
@@ -168,6 +171,6 @@ GhostTrackPro/
 ## 📜 License
 
 This project is licensed for educational use only. By using this tool, you agree to comply with all local and international laws regarding privacy and data protection.
- 
+
+**Developed by:** HunxByts (Original Concept) & Enhanced for Educational Clarity.  
 **Version:** 2.0 (Pro)
-```
